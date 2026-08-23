@@ -19,6 +19,7 @@ Repository layout
 Root/
 - original/    (contents of 3ddata/item from installation)
 - poc/         (modified items for testing)
+- prisonFarm/  (optimal profile for prison farming)
 - .idea/       (IDE metadata)
 
 Usage notes
