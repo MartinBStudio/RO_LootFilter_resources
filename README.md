@@ -7,6 +7,7 @@ This repository stores resource folders containing the contents of the `3ddata/i
 
 Current profiles
 ----------------
+- prisonFarm -  optimal profile for prison farming
 - original — unmodified items pulled from a Rose Online installation
 - poc — proof-of-concept adjustments (modified sizes/models)
 
