@@ -1,0 +1,19 @@
+{
+  "name": "prison farm",
+  "version": "1.0.1",
+  "upload_date": "2026-08-23T17:40:19.873+02:00",
+  "description": "Optimal prison farming profile",
+  "url": "https://forum.roseonlinegame.com/topic/5819-pro-farming-mod/",
+  "managedSubfolders": [
+    "di10",
+    "di15",
+    "di17",
+    "DI22",
+    "di30",
+    "di43",
+    "di55",
+    "di59",
+    "di68"
+  ],
+  "author": "DazzleMeister"
+}
