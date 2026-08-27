@@ -1,8 +1,8 @@
 {
-  "name": "prison farm",
-  "version": "1.0.1",
+  "name": "Prison farm",
+  "version": "1.0.2",
   "upload_date": "2026-08-23T17:40:19.873+02:00",
-  "description": "Optimal prison farming profile",
+  "description": "Enlarged Chems,Dirty,Effi, School spirit, Magical Box",
   "url": "https://forum.roseonlinegame.com/topic/5819-pro-farming-mod/",
   "managedSubfolders": [
     "di10",
@@ -13,7 +13,9 @@
     "di43",
     "di55",
     "di59",
-    "di68"
+    "di68",
+    "common",
+    "di50"
   ],
   "author": "DazzleMeister"
 }
