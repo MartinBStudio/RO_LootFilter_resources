@@ -1,22 +1,24 @@
 {
   "name": "Farming meta",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "upload_date": "2026-08-29T12:06:19.873+02:00",
   "description": "Most efficient - enlarged Chemicals, Dirty, Effi, School spirit, Magical Box",
   "url": "https://forum.roseonlinegame.com/topic/5819-pro-farming-mod/",
   "managedSubfolders": [
     "di10",
+    "DI13",
+    "di14",
     "di15",
     "di17",
+    "di19",
     "DI22",
     "di30",
     "di43",
+    "di50",
     "di55",
     "di59",
     "di68",
-    "common",
-    "di50",
-    "DI13"
+    "common"
   ],
   "author": "Martin"
 }
