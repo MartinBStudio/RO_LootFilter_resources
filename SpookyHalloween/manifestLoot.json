@@ -1,0 +1,25 @@
+{
+  "name": "Spooky Halloween",
+  "version": "1.0.0",
+  "upload_date": "2026-09-24T09:15:00.000-04:00",
+  "createdAt": "2026-09-24T09:15:00.000-04:00",
+  "description": "Void Halloween loot beams: bubbling cauldrons in six colours across every drop group.",
+  "url": "https://forum.roseonlinegame.com/topic/7798-spooky-ui-combat-text-and-other-halloween-themed-fun/",
+  "managedSubfolders": [
+    "common",
+    "di10",
+    "di17",
+    "di22",
+    "di23",
+    "di46",
+    "di50",
+    "di52",
+    "di55",
+    "di64",
+    "di65",
+    "di66",
+    "di67",
+    "di68"
+  ],
+  "author": "Kyio"
+}
