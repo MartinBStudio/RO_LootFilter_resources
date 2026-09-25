@@ -1,5 +1,3 @@
-This pack installs 28 files. To uninstall, delete these:
-
 3ddata\item\common\necklace01.dds
 3ddata\item\common\necklace01.zms
 3ddata\item\common\ring01.zms
