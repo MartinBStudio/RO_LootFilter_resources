@@ -1,6 +1,6 @@
 {
   "name": "Crimson Beams",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "upload_date": "2026-08-31T22:48:53.061-04:00",
   "createdAt": "2026-08-31T22:48:53.061-04:00",
   "description": "Red beams and drop models across every drop group.",
@@ -8,6 +8,7 @@
   "managedSubfolders": [
     "common",
     "di10",
+    "di11",
     "di17",
     "di22",
     "di23",
@@ -17,7 +18,6 @@
     "di55",
     "di64",
     "di65",
-    "di11",
     "di66",
     "di67",
     "di68"

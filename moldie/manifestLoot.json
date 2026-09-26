@@ -1,6 +1,6 @@
 {
   "name": "Moldie Beams",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "upload_date": "2026-08-31T22:48:54.393-04:00",
   "createdAt": "2026-08-31T22:48:54.393-04:00",
   "description": "Blue beams and drop models across every drop group.",
@@ -8,6 +8,7 @@
   "managedSubfolders": [
     "common",
     "di10",
+    "di11",
     "di17",
     "di22",
     "di23",
